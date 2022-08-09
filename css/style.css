@@ -1,0 +1,12 @@
+.navbar-brand img{
+    border-radius: 50%;
+}
+
+.hero{
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: azure;
+}
